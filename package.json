@@ -15,7 +15,7 @@
     "antd": "^3.22.2",
     "bulma-tooltip": "^2.0.2",
     "firebase-tools": "^7.3.0",
-    "next": "^9.0.5",
+    "next": "^11.1.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
   }
